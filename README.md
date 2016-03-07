@@ -26,6 +26,8 @@ Code-School-Slides
 - [Shaping Up with Angular.js](http://courseware.codeschool.com/shaping-up-with-angular-js/Slides/level01-05.pdf)
 - [Staying Sharp with Angular.js](http://courseware.codeschool.com/staying-sharp-with-angular-js/angular2-full.pdf)
 - [JavaScript Best Practices](http://courseware.codeschool.com.s3.amazonaws.com/javascript-best-practices/JSBP_full.pdf)
+- [ES2015: The Shape of JavaScript to Come](Code-School-Slides/blob/master/es6/slides.pdf)
+(The slides are gathered using [this script](Code-School-Slides/blob/master/es6/es6_slides.sh) and [a very nice PDF merge tool](http://smallpdf.com/merge-pdf))
 
 # Ruby and Rails
 - Try Ruby
