@@ -28,6 +28,7 @@ Code-School-Slides
 - [JavaScript Best Practices](http://courseware.codeschool.com.s3.amazonaws.com/javascript-best-practices/JSBP_full.pdf)
 - [ES2015: The Shape of JavaScript to Come](es6/slides.pdf)
 (The slides are gathered using [this script](es6/es6_slides.sh) and [a very nice PDF merge tool](https://smallpdf.com/merge-pdf))
+- [Try Ember](http://courseware.codeschool.com/try_ember/CodeSchool-TryEmber.pdf)
 
 # Ruby and Rails
 - Try Ruby
