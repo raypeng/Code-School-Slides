@@ -22,7 +22,6 @@ Code-School-Slides
 - [The Anatomy of Backbone.js Part 2](http://courseware.codeschool.com.s3.amazonaws.com/backbone2/backbone2.pdf)
 - [Real-time Web with Node.js](http://courseware.codeschool.com.s3.amazonaws.com/node_slides.pdf)
 - [Building Blocks of Express.js](http://courseware.codeschool.com/building-blocks-of-express-js/all-levels.pdf)
-- [Warming Up with Ember.js](http://courseware.codeschool.com/ember/slides/CodeSchool-Emberjs.pdf)
 - [Shaping Up with Angular.js](http://courseware.codeschool.com/shaping-up-with-angular-js/Slides/level01-05.pdf)
 - [Staying Sharp with Angular.js](http://courseware.codeschool.com/staying-sharp-with-angular-js/angular2-full.pdf)
 - [JavaScript Best Practices](http://courseware.codeschool.com.s3.amazonaws.com/javascript-best-practices/JSBP_full.pdf)
@@ -61,8 +60,11 @@ Code-School-Slides
 - [Git Real](http://courseware.codeschool.com.s3.amazonaws.com/git_real_slides.pdf)
 - [Git Real 2](http://courseware.codeschool.com.s3.amazonaws.com/git_real2/git_real_2_full_deck.pdf)
 - [Mastering Github](http://courseware.codeschool.com/mastering-github/CodeSchool_MasteringGithubCourse.pdf)
+- [The Magical Marvels of MongoDB](mongodb/slides.pdf)
+(The slides are gathered using [this script](mongodb/mongodb_slides.sh) and [a very nice PDF merge tool](https://smallpdf.com/merge-pdf))
 
 # Retired
 - [HTML & CSS Formations: 3 for 5](http://courseware.codeschool.com.s3.amazonaws.com/Three_For_Five.pdf), [Cheatsheet](http://courseware.codeschool.com.s3.amazonaws.com/css3_cheat_sheetv4.2.pdf)
 - [jQuery Air: First Flight](http://courseware.codeschool.com.s3.amazonaws.com/jquery_air_slides.pdf)
 - [jQuery Air: Captain's Log](http://courseware.codeschool.com.s3.amazonaws.com/jquery_air_2_slides.pdf)
+- [Warming Up with Ember.js](http://courseware.codeschool.com/ember/slides/CodeSchool-Emberjs.pdf)
